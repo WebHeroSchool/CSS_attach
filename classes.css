@@ -1,0 +1,41 @@
+.header__title{
+  color: grey;
+}
+.main__title{
+  font-family: cursive;
+}
+.button {
+width: 150px;
+font-family: sans-serif, arial;
+font-size: 14px;
+line-height: 28px;
+text-decoration: none;
+color: black;
+background: transparent;
+text-align: center;
+transition-duration: 0.4s;
+}
+.header__button{
+  font-size: 16px;
+}
+.header__button_italic{
+  font-style: italic;
+}
+.main__button{
+  color: grey;
+  background: green;
+}
+.main__button_white{
+  color: white;
+}
+.footer__button{
+  font-size: 8px;
+}
+.footer__title{
+  font-size: 15px;
+}
+.button:hover {
+background: black;
+border-color: #fff;
+color: white;
+}
