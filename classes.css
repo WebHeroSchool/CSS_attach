@@ -1,5 +1,9 @@
+*{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
 .header__title{
   color: grey;
+  font-family: 'Montserrat', sans-serif;
 }
 .main__title{
   font-family: cursive;
